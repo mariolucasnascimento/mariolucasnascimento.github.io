@@ -1,20 +1,11 @@
 body {
     font-family: Nunito, sans-serif;
-    color: #93ac39;
+    color: #ac397c;
 }
 
 h1, h2, h3 {
     font-family: Asap, sans-serif;
     color: #1d8046;
-}
-.botao { 
-    color: #160a24;
-    text-decoration: none;
-    padding: 10px 30px;
-    background-color: #236e2d;
-    font-size: .9em;
-    border-radius: 3px;
-     
 }
 
 
@@ -53,14 +44,14 @@ nav ul li a {
      padding: 10px 0;
      width: 100%;
      text-decoration: none;
-     color: #426e35;
+     color: #32472c;
 }
 
 header { 
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("../img/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("../img/InovaFri-Slides-Site-1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -83,7 +74,7 @@ header p{
        align-items: center;
        text-align: center;
        padding: 10px 10px 20px 20px;
-       background-color: #4b8529;
+       background-color: #2da55f;
        color: #FFFFFF; 
 }
 
@@ -101,16 +92,7 @@ header p{
     color: #1c1c1c;
 }
 
-#fotos {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 20px;
-}
 
-#fotos img {
-    width: 100%;
-}
 
 #contato{
     display: flex;
@@ -159,21 +141,6 @@ header{
     height: 30vh;
     justify-content: center;
     min-height: 250px;
-}
-
-#fotos {
-    flex-direction: row;
-    flex-wrap: wrap;
-
-}
-
-#fotos h2 {
-    width: 100%;
-    text-align: center;
-}
-
-#fotos img {
-    width: 33.333%;
 }
 
 #contato {
